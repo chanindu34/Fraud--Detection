@@ -1,0 +1,22 @@
+{
+  "best_model": "Isolation Forest",
+  "models": {
+    "isolation_forest": {
+      "precision": 0.35714285714285715,
+      "recall": 0.20270270270270271,
+      "f1": 0.25862068965517243,
+      "roc_auc": 0.6010348029018525
+    },
+    "lof": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 0.49954276335072395
+    }
+  },
+  "dataset": {
+    "total_transactions": 284807,
+    "fraud_cases": 492,
+    "fraud_rate": "0.17%"
+  }
+}

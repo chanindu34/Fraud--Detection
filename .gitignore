@@ -3,5 +3,5 @@ creditcard.csv
 models/*.pkl
 models/*.h5
 *.csv
-outputs/
-
+outputs/*
+!outputs/metrics.json
