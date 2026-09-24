@@ -5,3 +5,6 @@ models/*.h5
 *.csv
 outputs/*
 !outputs/metrics.json
+__pycache__/
+*.pyc
+.DS_Store
